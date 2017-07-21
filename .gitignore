@@ -3,5 +3,6 @@
 **/*.js
 **/*.map
 **/*.css
+*.log
 
 .idea/
